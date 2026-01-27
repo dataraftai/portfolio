@@ -30,7 +30,7 @@ Implemented adjustable probability thresholds and Dockerized the application wit
 #### [House Price Prediction (Deployed Web App)](https://github.com/dataraftai/house-price-prediction-streamlit)
 Developed a regression model with full data preprocessing and scaling pipeline.  
 Deployed the model as a live Streamlit web application on Render for real-time predictions.
-**Live App:** https://house-price-prediction-streamlit.onrender.com  
+Live App: [Open App](https://house-price-prediction-streamlit.onrender.com)
 
 #### [Mall Customer Segmentation using K-Means](https://github.com/dataraftai/Customer-_Segmentation)
 Segmented customers based on income and spending behavior using K-Means clustering.  
@@ -43,8 +43,8 @@ Implemented collaborative filtering techniques and evaluated recommendation qual
 #### [Olympics Data Analysis (1896–2016)](https://github.com/dataraftai/Olympics-analysis)
 End-to-end analysis of 120 years of Olympic history covering athletes, nations, medals, events, and performance trends.  
 Includes interactive visualizations and statistical insights.
- **Live Demo:** https://olympics-analysis-q66y.onrender.com  
-   
+ **Live Demo:** [Open Dashboard](https://olympics-analysis-q66y.onrender.com)
+
 ### Contact
 
 - 🔗 GitHub: https://github.com/dataraftai  
