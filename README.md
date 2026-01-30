@@ -30,7 +30,6 @@ Built a RESTful FastAPI service for live predictions and Dockerized the applicat
 Binary classification of network traffic (Normal vs Intrusion)
 Handles imbalanced data and noisy network features
 Returns prediction probability and intrusion label
-
 #### Deployment:
 FastAPI for serving real-time predictions
 Dockerized for reproducibility and easy deployment
