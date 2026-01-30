@@ -19,6 +19,22 @@ This portfolio also highlights my skills and practical experience in building en
 **Deployment:** FastAPI, Docker, Docker Hub, Streamlit, Render  
 **Cloud (Learning):** AWS EC2, S3
 
+You can paste this directly into your portfolio README.
+
+####  [Real-Time Intrusion Detection System (ML + FastAPI + Docker)](https://github.com/dataraftai/real-time-intrusion-detection.git)
+
+Developed a machine learning–based intrusion detection system to classify normal and malicious network activity in real time.
+Built a RESTful FastAPI service for live predictions and Dockerized the application for scalable deployment.
+
+####  API Features:
+Binary classification of network traffic (Normal vs Intrusion)
+Handles imbalanced data and noisy network features
+Returns prediction probability and intrusion label
+
+#### Deployment:
+FastAPI for serving real-time predictions
+Dockerized for reproducibility and easy deployment
+
 ####  [Telecom Customer Churn Prediction & Survival Analysis](https://github.com/dataraftai/Customer_churn_prediction)
 In this project, I analyzed how the probability of customer churn changes over time and built ML models to predict churn.  
 An XGBoost classifier was trained with class imbalance handling, and the model was deployed as a FastAPI service and Dockerized.
